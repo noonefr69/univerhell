@@ -208,16 +208,6 @@ void abortOrder() {
   cin.get();
 }
 
-// void changeOrder() {
-//  system("clear");
-//
-//  if(allOrders.size() == 0){
-//    cout << "there are no orders yet to edit \n";
-//    cout << "press enter to continue...";
-//    cin.get();
-//  }
-//}
-
 void changeOrder() {
   system("clear");
 
